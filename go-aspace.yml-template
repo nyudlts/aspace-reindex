@@ -1,0 +1,14 @@
+dev:
+  url: https://archivesspace-url-dev.com:8089
+  username:
+  password:
+
+stage:
+  url: https://archivesspace-url-stage.com:8089
+  username:
+  password:
+
+prod:
+  url: https://archivesspace-url-stage.com:8089
+  username:
+  password:
