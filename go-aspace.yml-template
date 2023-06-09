@@ -1,14 +1,14 @@
 dev:
   url: https://archivesspace-url-dev.com:8089
-  username:
-  password:
+  username: your-username
+  password: your-password
 
 stage:
   url: https://archivesspace-url-stage.com:8089
-  username:
-  password:
-
+  username: your-username
+  password: your-password
+  
 prod:
   url: https://archivesspace-url-stage.com:8089
-  username:
-  password:
+  username: your-username
+  password: your-password
