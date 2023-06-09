@@ -1,6 +1,6 @@
 module aspace-reindex
 
-go 1.18
+go 1.20
 
 require github.com/nyudlts/go-aspace v0.3.8-0.20220511162907-e576f65ff9a3
 
